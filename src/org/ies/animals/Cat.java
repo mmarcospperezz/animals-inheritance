@@ -2,7 +2,7 @@ package org.ies.animals;
 
 import java.util.Objects;
 
-public class  Cat extends Animal {
+public class Cat extends Animal {
     private String color;
 
     public Cat(int edad, String color) {
