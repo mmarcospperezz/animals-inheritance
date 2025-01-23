@@ -1,6 +1,6 @@
-import org.ies.animals.Cat;
-import org.ies.animals.Dog;
-import org.ies.animals.Pig;
+import org.ies.animals.model.Cat;
+import org.ies.animals.model.Dog;
+import org.ies.animals.model.Pig;
 
 public class Main {
     public static void main(String[] args) {
